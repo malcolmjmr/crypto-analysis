@@ -1,1 +1,3 @@
-This repository is used for my market analysis and trading strategies. 
+# Tokenalyis 
+
+Research and analysis of the token market. 
