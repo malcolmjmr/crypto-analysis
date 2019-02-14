@@ -75,7 +75,7 @@ class Exchange:
         # save
         ohlcv.to_csv(csv_name)
             
-        return ohlcv[['asset','open','high','low','close','quote_volume','base_volume']]
+        return ohlcv[['asset', 'open', 'high', 'low', 'close', 'quote_volume', 'base_volume']]
 
 
 
